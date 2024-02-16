@@ -1,0 +1,9 @@
+[submodule "wasmedge_hyper_demo"]
+	path = wasmedge_hyper_demo
+	url = https://github.com/IRONICBo/wasmedge_hyper_demo
+[submodule "wasmedge_reqwest_demo"]
+	path = wasmedge_reqwest_demo
+	url = https://github.com/IRONICBo/wasmedge_reqwest_demo
+[submodule "WasmEdge"]
+	path = WasmEdge
+	url = https://github.com/IRONICBo/WasmEdge
